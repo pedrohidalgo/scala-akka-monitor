@@ -1,0 +1,4 @@
+/task-monitor.xml
+/project/*
+/target/*
+/src/main/scala/target/*
